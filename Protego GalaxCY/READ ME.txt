@@ -1,0 +1,8 @@
+Here exists the user guide for the Protego system.
+Designed by Team GalaxCY for the NASA Space Apps Challenge 2017. 
+
+Team GalaxCY is: 
+Andreas Neophitou
+Manos Iliadis
+Orestis Skoutellas
+Vasilis Horga
